@@ -1,22 +1,22 @@
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
-  "ownerName": "riycoders",
-  "botName": "Minato-Md",
-  "footer": "Support By xcodeteam.xyz",
-  "packname": "Created By",
-  "author": "@riycoders",
+  "ownerNumber": "17736667530@s.whatsapp.net",
+  "ownerName": "Kiki",
+  "botName": "sabot-MD",
+  "footer": "chatbot © 2023",
+  "packname": "",
+  "author": "Kiki",
   "sessionName": "session",
   "pathimg": "./media/minato.jpg",
   "sosmed": {
-    "youtube": "https://youtube.com/@riycoders",
-    "instagram": "https://instagram.com/riycoders"
+    "youtube": "https://youtube.com/@kiyspeach",
+    "instagram": "https://instagram.com/kiyspeach"
   },
   "donasi": {
-    "dana": "081575886399",
-    "gopay": "081575886399",
-    "pulsa": "081575886399"
+    "dana": "081818434188",
+    "gopay": "-",
+    "pulsa": "087852408550"
   },
-  "gamewaktu": 90,
+  "gamewaktu": 60,
   "limitCount": 25,
   "gcount": {
     "prem": 35,
